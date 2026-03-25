@@ -1,0 +1,7 @@
+.env
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+f1_cache/
+fastf1_http_cache.sqlite
